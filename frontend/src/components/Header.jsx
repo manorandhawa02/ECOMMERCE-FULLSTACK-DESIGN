@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div style={{ background: "#fff", borderBottom: "1px solid #ddd" }}>
       <div
-        className="container flex spacebetween "
+        className="container flex space-between "
         style={{ padding: "15px 0" }}
       >
         <img src={brand.logo} alt="" />

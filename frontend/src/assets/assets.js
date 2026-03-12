@@ -1,3 +1,4 @@
+// import carticon from './assets/cart_icon.png'
 // BACKGROUNDS
 import banner_board from './Image/backgrounds/Banner-board-800x420 2.png'
 import group969 from './Image/backgrounds/Group 969.png'
